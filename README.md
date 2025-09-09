@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Liam McKenzie
 
 Welcome to my GitHub!  
-I'm currently pursuing a B.S. in Computer Science at the University of Rhode Island (URI), where I also serve as a Teaching Assistant in the department.
+I'm currently pursuing a B.S. in Computer Science at the University of Rhode Island (URI),  
+where I also serve as a Teaching Assistant in the department.
 
 ---
 
