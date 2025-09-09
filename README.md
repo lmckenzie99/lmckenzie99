@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Liam McKenzie
 
-<!--
-**lmckenzie99/lmckenzie99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm currently pursuing a B.S. in Computer Science at the University of Rhode Island (URI), where I also serve as a Teaching Assistant in the department.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+
+- **Student & TA** at URI, helping fellow students master computer science fundamentals
+- **C/C++ & Python Enthusiast:** I love working close to the metal and scripting solutions
+- **Linux Power User:** I thrive in CLI environments and enjoy tinkering with open source tools
+- **Advocate for FOSS & Collaboration:** I believe in the power of free, open software and community-driven projects
+- **Neovim Fan:** My editor of choice—minimal, customizable, and lightning-fast
+- **Coffee Addict:** Fueling code and collaboration, one cup at a time
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- **Languages:** C, C++, Go, Python, Rust
+- **Tools:** CLI, Linux, Neovim
+- **Philosophy:** FOSS, collaboration, continual learning
+
+---
+
+## 📚 Find My Work
+
+Check out my pinned repositories for coursework, personal configs, and other projects!
+
+---
+
+> My code works, and honestly I'm afraid to ask why.
