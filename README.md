@@ -25,10 +25,4 @@ where I also serve as a Teaching Assistant in the department.
 
 ---
 
-## 📚 Find My Work
-
-Check out my pinned repositories for coursework, personal configs, and other projects!
-
----
-
 > My code works, and honestly I'm afraid to ask why.
