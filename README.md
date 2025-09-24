@@ -19,7 +19,7 @@ where I also serve as a Teaching Assistant in the department.
 
 ## 🧑‍💻 Tech Stack
 
-- **Languages:** C, C++, Dart, Go, Python, Rust
+- **Languages:** C, C++, Dart, Go, Lua, Python, Rust, Typescript
 - **Tools:** CLI, Linux, Neovim
 - **Philosophy:** FOSS, collaboration, continual learning
 
