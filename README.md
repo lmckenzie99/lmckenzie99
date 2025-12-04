@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!  
 I'm currently pursuing a B.S. in Computer Science at the University of Rhode Island (URI),  
-where I also serve as a Teaching Assistant in the department.
+where I also serve as a Teaching Assistant in the department. I am also an undergrad researcher with the AI Lab here at URI.
 
 ---
 
