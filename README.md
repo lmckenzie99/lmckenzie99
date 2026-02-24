@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Liam McKenzie
 
-Welcome to my GitHub!  
-I'm currently pursuing a B.S. in Computer Science at the University of Rhode Island (URI),  
-where I also serve as a Teaching Assistant in the department. I am also an undergrad researcher with the AI Lab here at URI.
+Welcome to my GitHub! I'm currently pursuing a B.S. in Computer Science at the University of Rhode Island (URI), where I also serve as a Teaching Assistant in the department. I am also an undergrad researcher with the AI Lab here at URI.
 
 ---
 
@@ -14,14 +12,16 @@ where I also serve as a Teaching Assistant in the department. I am also an under
 - **Linux Power User:** I thrive in CLI environments and enjoy tinkering with open source tools
 - **Advocate for FOSS & Collaboration:** I believe in the power of free, open software and community-driven projects
 - **Neovim Fan:** My editor of choice—minimal, customizable, and lightning-fast
+- **Security Researcher:** Leading SENTINEL, an adversarial reinforcement learning environment for cyber defense research.
 - **Coffee Addict:** Fueling code and collaboration, one cup at a time
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-- **Languages:** C, C++, Dart, Go, Lua, Python, Rust, Typescript
-- **Tools:** CLI, Linux, Neovim
+- **Languages:** C, C++, Dart, Go, Lua, Python, Rust, Typescript, and many more!
+- **Tools:** CLI, Linux, Neovim, Unity HPC
+- **Security:** Threat modeling, agentic AI systems, penetration testing
 - **Philosophy:** FOSS, collaboration, continual learning
 
 ---
